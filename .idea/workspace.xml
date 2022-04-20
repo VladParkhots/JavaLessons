@@ -1,9 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9e477e0c-74aa-49a9-8bc8-48642ce47bc8" name="Changes" comment="Day 1: Tasks 1-3">
+    <list default="true" id="9e477e0c-74aa-49a9-8bc8-48642ce47bc8" name="Changes" comment="Day 1: Tasks 4-6">
+      <change afterPath="$PROJECT_DIR$/src/lectures/hello/If.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lectures/hello/Input.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lessons/two/HW2_TaskFour.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lessons/two/HW2_TaskOne.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lessons/two/HW2_TaskThree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lessons/two/HW2_TaskTwo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/lessons/one/HomeworkOne.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lessons/one/HomeworkOne.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lessons/two/task" beforeDir="false" afterPath="$PROJECT_DIR$/src/lessons/two/task" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,13 +43,13 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;File.Encoding&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.HomeworkOne">
-    <configuration name="HomeworkOne" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lessons.one.HomeworkOne" />
+  <component name="RunManager" selected="Application.HW2_TaskFour">
+    <configuration name="HW2_TaskFour" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lessons.two.HW2_TaskFour" />
       <module name="JavaLessons" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lessons.one.*" />
+          <option name="PATTERN" value="lessons.two.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -50,12 +57,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WhileFor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lectures.hello.WhileFor" />
+    <configuration name="HW2_TaskOne" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lessons.two.HW2_TaskOne" />
       <module name="JavaLessons" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lectures.hello.*" />
+          <option name="PATTERN" value="lessons.two.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -63,8 +70,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="lectures.hello.HelloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lectures.hello.HelloWorld" />
+    <configuration name="HW2_TaskThree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lessons.two.HW2_TaskThree" />
+      <module name="JavaLessons" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lessons.two.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HW2_TaskTwo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lessons.two.HW2_TaskTwo" />
+      <module name="JavaLessons" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lessons.two.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Input" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lectures.hello.Input" />
       <module name="JavaLessons" />
       <extension name="coverage">
         <pattern>
@@ -78,9 +111,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.HomeworkOne" />
-        <item itemvalue="Application.WhileFor" />
-        <item itemvalue="Application.lectures.hello.HelloWorld" />
+        <item itemvalue="Application.HW2_TaskFour" />
+        <item itemvalue="Application.HW2_TaskThree" />
+        <item itemvalue="Application.HW2_TaskTwo" />
+        <item itemvalue="Application.HW2_TaskOne" />
+        <item itemvalue="Application.Input" />
       </list>
     </recent_temporary>
   </component>
@@ -121,7 +156,14 @@
       <option name="project" value="LOCAL" />
       <updated>1650460176654</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Day 1: Tasks 4-6">
+      <created>1650468675263</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1650468675263</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -140,7 +182,8 @@
     <MESSAGE value="Add workspace.xml" />
     <MESSAGE value="Update gitignore" />
     <MESSAGE value="Day 1: Tasks 1-3" />
-    <option name="LAST_COMMIT_MESSAGE" value="Day 1: Tasks 1-3" />
+    <MESSAGE value="Day 1: Tasks 4-6" />
+    <option name="LAST_COMMIT_MESSAGE" value="Day 1: Tasks 4-6" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
