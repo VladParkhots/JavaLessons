@@ -1,14 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9e477e0c-74aa-49a9-8bc8-48642ce47bc8" name="Changes" comment="Add workspace.xml">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    <list default="true" id="9e477e0c-74aa-49a9-8bc8-48642ce47bc8" name="Changes" comment="Update gitignore">
+      <change afterPath="$PROJECT_DIR$/src/lectures/hello/HelloWorld.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lectures/hello/WhileFor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lessons/one/HomeworkOne.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lessons/one/task" beforeDir="false" afterPath="$PROJECT_DIR$/src/lessons/one/task" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -28,6 +38,54 @@
     "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
+  <component name="RunManager" selected="Application.HomeworkOne">
+    <configuration name="HomeworkOne" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lessons.one.HomeworkOne" />
+      <module name="JavaLessons" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lessons.one.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WhileFor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lectures.hello.WhileFor" />
+      <module name="JavaLessons" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lectures.hello.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lectures.hello.HelloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lectures.hello.HelloWorld" />
+      <module name="JavaLessons" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lectures.hello.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.HomeworkOne" />
+        <item itemvalue="Application.WhileFor" />
+        <item itemvalue="Application.lectures.hello.HelloWorld" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -51,7 +109,14 @@
       <option name="project" value="LOCAL" />
       <updated>1650447811456</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Update gitignore">
+      <created>1650450077323</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1650450077323</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -68,6 +133,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Add one. task and two. task" />
     <MESSAGE value="Add workspace.xml" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add workspace.xml" />
+    <MESSAGE value="Update gitignore" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update gitignore" />
   </component>
 </project>
