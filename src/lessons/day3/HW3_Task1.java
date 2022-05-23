@@ -22,10 +22,7 @@ public class HW3_Task1 {
                     break;
                 default:
                     System.out.println("nothing");
-
             }
         }while (!city.equals("Stop"));
-
-
     }
 }
